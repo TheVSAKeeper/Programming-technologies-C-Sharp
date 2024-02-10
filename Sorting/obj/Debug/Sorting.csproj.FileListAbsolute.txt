@@ -1,0 +1,13 @@
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\bin\Debug\Sorting.exe.config
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\bin\Debug\Sorting.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\bin\Debug\Sorting.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.HelpForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.MainForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\obj\Debug\Sorting.ComparisonForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Sorting\bin\Debug\Help.rtf

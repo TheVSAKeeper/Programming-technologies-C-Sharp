@@ -1,0 +1,13 @@
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.Properties.Resources.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.csproj.GenerateResource.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.MainForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\bin\Debug\Help\Help.rtf
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Polymorphism\obj\Debug\Polymorphism.Help.HelpForm.resources

@@ -1,0 +1,13 @@
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\bin\Debug\Cryptography.exe.config
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\bin\Debug\Cryptography.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\bin\Debug\Cryptography.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.csproj.AssemblyReference.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.csproj.SuggestedBindingRedirects.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.Properties.Resources.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.csproj.GenerateResource.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.csproj.CoreCompileInputs.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.MainForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\bin\Debug\Help\Help.rtf
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Cryptography\obj\Debug\Cryptography.Help.HelpForm.resources

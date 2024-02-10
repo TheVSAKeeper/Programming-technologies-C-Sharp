@@ -1,0 +1,13 @@
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\bin\Debug\BinaryTrees.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\bin\Debug\BinaryTrees.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.csproj.AssemblyReference.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.csproj.SuggestedBindingRedirects.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.Properties.Resources.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.csproj.GenerateResource.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.MainForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\bin\Debug\Help\Help.rtf
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\BinaryTrees\obj\Debug\BinaryTrees.Help.HelpForm.resources

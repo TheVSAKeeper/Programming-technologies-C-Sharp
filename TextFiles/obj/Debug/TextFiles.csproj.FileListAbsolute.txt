@@ -1,0 +1,11 @@
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\bin\Debug\TextFiles.exe.config
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\bin\Debug\TextFiles.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\bin\Debug\TextFiles.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\obj\Debug\TextFiles.csproj.AssemblyReference.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\obj\Debug\TextFiles.csproj.SuggestedBindingRedirects.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\obj\Debug\TextFiles.Properties.Resources.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\obj\Debug\TextFiles.csproj.GenerateResource.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\obj\Debug\TextFiles.csproj.CoreCompileInputs.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\obj\Debug\TextFiles.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\obj\Debug\TextFiles.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\TextFiles\obj\Debug\TextFiles.MainForm.resources

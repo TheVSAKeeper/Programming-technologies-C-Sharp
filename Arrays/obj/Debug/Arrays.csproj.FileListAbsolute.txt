@@ -1,0 +1,11 @@
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\bin\Debug\Arrays.exe.config
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\bin\Debug\Arrays.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\bin\Debug\Arrays.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\obj\Debug\Arrays.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\obj\Debug\Arrays.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Arrays\obj\Debug\Arrays.MainForm.resources

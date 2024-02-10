@@ -1,0 +1,109 @@
+@startuml
+interface IDescribing {
+    Description : string <<get>>
+}
+interface IPointing {
+    X : float <<get>>
+    Y : float <<get>>
+}
+interface IRound {
+    Radius : float <<get>>
+}
+interface IShape {
+    Perimeter : float <<get>>
+    Area : float <<get>>
+}
+interface ISurfaceOfRevolution {
+    SurfaceArea : float <<get>>
+    EnclosedVolume : float <<get>>
+}
+interface ITwoDimensionalShape {
+    Perimeter : float <<get>>
+    Area : float <<get>>
+}
+class Circle {
+    + Circle(position:Point, radius:float)
+    + Circle(radius:float)
+    + Description : string <<get>>
+    + Radius : float <<get>>
+    + Perimeter : float <<get>>
+    + Area : float <<get>>
+}
+IRound <|-- Circle
+IShape <|-- Circle
+IDescribing <|-- Circle
+Circle --> "Position" Point
+class Cone {
+    + Cone(position:Point, radius:float, height:float)
+    + Cone(radius:float, height:float)
+    - Height : float <<get>>
+    - AreaOfLateralSurface : float <<get>>
+    + Description : string <<get>>
+    + Radius : float <<get>>
+    + Perimeter : float <<get>>
+    + Area : float <<get>>
+    + SurfaceArea : float <<get>>
+    + EnclosedVolume : float <<get>>
+}
+ISurfaceOfRevolution <|-- Cone
+IShape <|-- Cone
+IRound <|-- Cone
+IDescribing <|-- Cone
+Cone --> "Position" Point
+class Point {
+    + Point(x:float, y:float)
+    + Description : string <<get>>
+    + X : float <<get>>
+    + Y : float <<get>>
+}
+IPointing <|-- Point
+IDescribing <|-- Point
+class Snowman {
+    + Snowman(bucket:Cone, head:Sphere, averageBody:Sphere, lowerBody:Sphere)
+    + Description : string <<get>>
+    + SurfaceArea : float <<get>>
+    + EnclosedVolume : float <<get>>
+}
+ISurfaceOfRevolution <|-- Snowman
+IDescribing <|-- Snowman
+Snowman --> "Bucket" Cone
+Snowman --> "Head" Sphere
+Snowman --> "AverageBody" Sphere
+Snowman --> "LowerBody" Sphere
+class Sphere {
+    + Sphere(position:Point, radius:float)
+    + Sphere(radius:float)
+    + Description : string <<get>>
+    + Radius : float <<get>>
+    + Perimeter : float <<get>>
+    + Area : float <<get>>
+    + SurfaceArea : float <<get>>
+    + EnclosedVolume : float <<get>>
+}
+ISurfaceOfRevolution <|-- Sphere
+IShape <|-- Sphere
+IRound <|-- Sphere
+IDescribing <|-- Sphere
+Sphere --> "Position" Point
+class Rhombus {
+    + Rhombus(side:float, angle:float)
+    - FirstDiagonal : float <<get>>
+    - SecondDiagonal : float <<get>>
+    - Side : float <<get>>
+    - Angle : float <<get>>
+    + Description : string <<get>>
+    + Perimeter : float <<get>>
+    + Area : float <<get>>
+}
+ITwoDimensionalShape <|-- Rhombus
+IDescribing <|-- Rhombus
+class Square {
+    + Square(side:float)
+    - Side : float <<get>>
+    + Description : string <<get>>
+    + Perimeter : float <<get>>
+    + Area : float <<get>>
+}
+ITwoDimensionalShape <|-- Square
+IDescribing <|-- Square
+@enduml

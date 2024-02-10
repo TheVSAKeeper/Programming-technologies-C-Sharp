@@ -1,0 +1,65 @@
+@startuml
+class Circle {
+    - _radius : double
+    + Circle(x:double, y:double)
+    # Circle()
+    + Radius : double <<get>> <<set>>
+    # Square() : double
+    + <<override>> GetDescription() : string
+}
+Point <|-- Circle
+class Cone {
+    - _height : double
+    + Cone(x:double, y:double, r:double)
+    + Cone()
+    + Height : double <<get>> <<set>>
+    - SquareSide() : double
+    + <<virtual>> Volume() : double
+    + <<virtual>> SurfaceArea() : double
+    + <<override>> GetDescription() : string
+}
+Circle <|-- Cone
+class Point {
+    # X : double
+    # Y : double
+    + PointX : double <<get>> <<set>>
+    + PointY : double <<get>> <<set>>
+    + <<virtual>> GetDescription() : string
+}
+class Snowman {
+    + SurfaceArea : double <<get>>
+    + Volume : double <<get>>
+}
+Snowman o-> "Bucket" Cone
+Snowman o-> "Head" Sphere
+Snowman o-> "AverageBody" Sphere
+Snowman o-> "LowerBody" Sphere
+class Sphere {
+    + Sphere(x:double, y:double, r:double)
+    + Sphere()
+    + <<virtual>> Volume() : double
+    + <<virtual>> SurfaceArea() : double
+    + <<override>> GetDescription() : string
+}
+Circle <|-- Sphere
+class Rhombus {
+    + Rhombus(diagonals:(double, double))
+    - FirstDiagonal : double <<get>>
+    - SecondDiagonal : double <<get>>
+    # <<override>> Area : double <<get>>
+    + <<override>> GetDescription() : string
+}
+Square <|-- Rhombus
+class Square {
+    + Square(side:double)
+    - Perimeter : double <<get>>
+    # <<virtual>> Area : double <<get>>
+    + <<virtual>> GetDescription() : string
+}
+TwoDimensionalShape <|-- Square
+abstract class TwoDimensionalShape {
+    # TwoDimensionalShape(length:double, width:double)
+    # Length : double <<get>>
+    # Width : double <<get>>
+}
+@enduml

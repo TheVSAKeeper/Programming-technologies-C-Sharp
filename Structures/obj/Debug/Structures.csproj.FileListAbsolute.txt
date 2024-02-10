@@ -1,0 +1,32 @@
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Structures.exe.config
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Structures.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Structures.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.csproj.SuggestedBindingRedirects.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.Properties.Resources.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.csproj.GenerateResource.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.exe
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.pdb
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.Help.HelpForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.MainForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Help\DepartmentsHelp.rtf
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Help\EmployeesHelp.rtf
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.Departments.DepartmentsForm.resources
+C:\Google Drive\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.Employees.EmployeesForm.resources
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Help\DepartmentsHelp.rtf
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Help\EmployeesHelp.rtf
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Structures.exe.config
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Structures.exe
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\bin\Debug\Structures.pdb
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.csproj.SuggestedBindingRedirects.cache
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.Departments.DepartmentsForm.resources
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.Employees.EmployeesForm.resources
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.Help.HelpForm.resources
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.MainForm.resources
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.Properties.Resources.resources
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.csproj.GenerateResource.cache
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.exe
+D:\ВятГУ\ВятГУ\Технологии программирования\Applications\Structures\obj\Debug\Structures.pdb
